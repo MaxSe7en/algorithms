@@ -1,0 +1,9 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    /* background-color: lawngreen;
+    font-family: fantasy; */
+    margin: 0;
+}
