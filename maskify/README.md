@@ -1,4 +1,4 @@
-##Maskify a text
+#Maskify a text
 
 ```JavaScript
 # returns information as #######tion
